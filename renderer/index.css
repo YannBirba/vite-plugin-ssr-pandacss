@@ -1,0 +1,190 @@
+/*Fallbacks Generated using https://github.com/pixel-point/fontpie, fonts by Google transfmormed with https://transfonter.org/ to woff et woff2 */
+@font-face {
+  font-family: "Inter";
+  src: local("Inter Regular"), local("Inter-Regular"),
+    url("assets/fonts/Inter-Regular.woff2") format("woff2"),
+    url("assets/fonts/Inter-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Inter Fallback";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Arial");
+  ascent-override: 101.35%;
+  descent-override: 29.69%;
+  line-gap-override: 0%;
+  size-adjust: 107.64%;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter Medium"), local("Inter-Medium"),
+    url("assets/fonts/Inter-Medium.woff2") format("woff2"),
+    url("assets/fonts/Inter-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter Fallback";
+  font-style: normal;
+  font-weight: 500;
+  src: local("Arial");
+  ascent-override: 100.79%;
+  descent-override: 29.36%;
+  line-gap-override: 0%;
+  size-adjust: 108.87%;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter SemiBold"), local("Inter-SemiBold"),
+    url("assets/fonts/Inter-SemiBold.woff2") format("woff2"),
+    url("assets/fonts/Inter-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter Fallback";
+  font-style: normal;
+  font-weight: 600;
+  src: local("Arial Bold");
+  ascent-override: 108.62%;
+  descent-override: 31.4%;
+  line-gap-override: 0%;
+  size-adjust: 101.77%;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter Thin"), local("Inter-Thin"),
+    url("assets/fonts/Inter-Thin.woff2") format("woff2"),
+    url("assets/fonts/Inter-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter Fallback";
+  font-style: normal;
+  font-weight: 100;
+  src: local("Arial");
+  ascent-override: 104.17%;
+  descent-override: 30.96%;
+  line-gap-override: 0%;
+  size-adjust: 103.23%;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter ExtraBold"), local("Inter-ExtraBold"),
+    url("assets/fonts/Inter-ExtraBold.woff2") format("woff2"),
+    url("assets/fonts/Inter-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter Fallback";
+  font-style: normal;
+  font-weight: 800;
+  src: local("Arial Bold");
+  ascent-override: 107.76%;
+  descent-override: 31.12%;
+  line-gap-override: 0%;
+  size-adjust: 104.07%;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter Light"), local("Inter-Light"),
+    url("assets/fonts/Inter-Light.woff2") format("woff2"),
+    url("assets/fonts/Inter-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter Fallback";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Arial");
+  ascent-override: 100.91%;
+  descent-override: 30.1%;
+  line-gap-override: 0%;
+  size-adjust: 106.17%;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter Black"), local("Inter-Black"),
+    url("assets/fonts/Inter-Black.woff2") format("woff2"),
+    url("assets/fonts/Inter-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter Fallback";
+  font-style: normal;
+  font-weight: 900;
+  src: local("Arial Bold");
+  ascent-override: 107.33%;
+  descent-override: 31.32%;
+  line-gap-override: 0%;
+  size-adjust: 105.21%;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter ExtraLight"), local("Inter-ExtraLight"),
+    url("assets/fonts/Inter-ExtraLight.woff2") format("woff2"),
+    url("assets/fonts/Inter-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter Fallback";
+  font-style: normal;
+  font-weight: 200;
+  src: local("Arial");
+  ascent-override: 102.54%;
+  descent-override: 30.53%;
+  line-gap-override: 0%;
+  size-adjust: 104.69%;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter Bold"), local("Inter-Bold"),
+    url("assets/fonts/Inter-Bold.woff2") format("woff2"),
+    url("assets/fonts/Inter-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter Fallback";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Arial Bold");
+  ascent-override: 108.17%;
+  descent-override: 31.05%;
+  line-gap-override: 0%;
+  size-adjust: 102.92%;
+}
+
+@layer reset, base, tokens, recipes, utilities;
